@@ -4,17 +4,28 @@
   <script src="http://d3js.org/d3.v3.min.js"></script>
   <script src="http://d3js.org/topojson.v1.min.js"></script>
   <script src="http://datamaps.github.io/scripts/datamaps.usa.js?v=1"></script>
-  <h2>Datamaps Washingotn State Test</h2>
+  <h2>Datamaps Washingotn State Test (2012 median income)</h2>
   <p>Counties referred to by their <a href="https://en.wikipedia.org/wiki/List_of_counties_in_Washington">FIPS code</a></p>
   <div id="container1" style="position: relative; width: 1000px; height: 450px;"></div>
 
      <script>
+
+
       var map = new Datamap({
         scope: 'gz_2010_us_050_00_500k',
         element: document.getElementById('container1'),
         projection: '',
         geographyConfig: {
-          dataUrl: 'washington.json'
+          dataUrl: 'washington.json',
+          popupTemplate: function(geo, data) {
+              // don't show tooltip if country don't present in dataset
+              if (!data) { return ; }
+              // tooltip content
+              return ['<div class="hoverinfo">',
+                  '<strong>', geo.properties.name, '</strong>',
+                  '<br>Count: <strong>', data.income, '</strong>',
+                  '</div>'].join('');
+          }
         },
         setProjection: function(element) {
           var projection = d3.geo.equirectangular()
@@ -29,10 +40,173 @@
         },
         fills: {
           defaultFill: '#f0af0a',
-          green: 'rgba(0,204,0,1)'
+          top1: "#003311",
+          top2: "#006622",
+          top3: "#009933",
+          top4: "#00cc44",
+          top5: "#00ff55",
+          top6:  "#33ff77",
+          top7:  "#66ff99",
+          top8: "#d6f5d6",
+          //green: 'rgba(0,204,0,1)'
         },
         data: {
-          '33': {fillKey: 'green' },
+'01' : {
+income: '42,354',
+fillKey: 'top6'
+},
+'03' : {
+income: '41,703',
+fillKey: 'top6'
+},
+'05' : {
+income: '62,739',
+fillKey: 'top2'
+},
+'07' : {
+income: '47,265',
+fillKey: 'top5'
+},
+'09' : {
+income: '41,887',
+fillKey: 'top6'
+},
+'11' : {
+income: '56,054',
+fillKey: 'top3'
+},
+'13' : {
+income: '39,461',
+fillKey: 'top7'
+},
+'15' : {
+income: '42,752',
+fillKey: 'top6'
+},
+'17' : {
+income: '48,050',
+fillKey: 'top5'
+},
+'19' : {
+income: '37,548',
+fillKey: 'top7'
+},
+'21' : {
+income: '56,221',
+fillKey: 'top3'
+},
+'23' : {
+income: '45,187',
+fillKey: 'top5'
+},
+'25' : {
+income: '45,021',
+fillKey: 'top5'
+},
+'27' : {
+income: '40,354',
+fillKey: 'top6'
+},
+'29' : {
+income: '55,091',
+fillKey: 'top3'
+},
+'31' : {
+income: '46,651',
+fillKey: 'top5'
+},
+'33' : {
+income: '68,313',
+fillKey: 'top1'
+},
+'35' : {
+income: '57,155',
+fillKey: 'top3'
+},
+'37' : {
+income: '43,098',
+fillKey: 'top6'
+},
+'39' : {
+income: '44,825',
+fillKey: 'top6'
+},
+'41' : {
+income: '41,208',
+fillKey: 'top6'
+},
+'43' : {
+income: '45,690',
+fillKey: 'top5'
+},
+'45' : {
+income: '48,804',
+fillKey: 'top5'
+},
+'47' : {
+income: '35,848',
+fillKey: 'top7'
+},
+'49' : {
+income: '38,018',
+fillKey: 'top7'
+},
+'51' : {
+income: '37,755',
+fillKey: 'top7'
+},
+'53' : {
+income: '57,162',
+fillKey: 'top3'
+},
+'55' : {
+income: '55,025',
+fillKey: 'top3'
+},
+'57' : {
+income: '56,443',
+fillKey: 'top3'
+},
+'59' : {
+income: '52,401',
+fillKey: 'top4'
+},
+'61' : {
+income: '64,033',
+fillKey: 'top2'
+},
+'63' : {
+income: '48,265',
+fillKey: 'top5'
+},
+'65' : {
+income: '41,643',
+fillKey: 'top6'
+},
+'67' : {
+income: '62,009',
+fillKey: 'top2'
+},
+'69' : {
+income: '45,624',
+fillKey: 'top5'
+},
+'71' : {
+income: '46,147',
+fillKey: 'top5'
+},
+'73' : {
+income: '51,268',
+fillKey: 'top4'
+},
+'75' : {
+income: '32,570',
+fillKey: 'top8'
+},
+'77' : {
+income: '42,162',
+fillKey: 'top6'
+},
         }
       });
      </script>
