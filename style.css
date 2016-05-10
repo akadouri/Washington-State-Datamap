@@ -1,0 +1,29 @@
+h1,h2 {
+    text-align: center;
+}
+#form {
+    text-align: center;
+    height: 600px;
+    width: 400px;
+    margin-right: auto;
+    margin-left: auto;
+}
+label {
+    float: left;
+    vertical-align: middle;
+    height: 30px;
+    width: 100px;
+    margin-top: 10px;
+}
+input {
+    vertical-align: middle;
+    height: 30px;
+    width: 200px;
+    margin-top: 10px;
+}
+#container1 {
+    width: 1000px;
+    height: 450px;
+    margin-right: auto;
+    margin-left: auto;
+}

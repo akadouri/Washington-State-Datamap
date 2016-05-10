@@ -6,52 +6,53 @@
     <script src="http://d3js.org/topojson.v1.min.js"></script>
     <script src="http://datamaps.github.io/scripts/datamaps.usa.js?v=1"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
-    <h2>Datamaps Washington State Test (2012 median income)</h2>
-    <p>Counties referred to by their <a href="https://en.wikipedia.org/wiki/List_of_counties_in_Washington">FIPS code</a></p>
-    <div id="container1" style="position: relative; width: 1000px; height: 450px;"></div>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <h1>Datamap of Washington State</h1>
+    <div id="container1"></div>
     <h1>Data</h1>
-    <div id="data_entry"></div>
+    <h2>2012 median income</h2>
+    <div id="form"></div>
     <script>
         var fips = {
-            '01': "adams",
-            '03': "asotin",
-            '05': "benton",
-            '07': "chelan",
-            '09': "clallam",
-            '11': "clark",
-            '13': "columbia",
-            '15': "cowitz",
-            '17': "douglas",
-            '19': "ferry",
-            '21': "franklin",
-            '23': "garfield",
-            '25': "grant",
-            '27': "grays harbor",
-            '29': "island",
-            '31': "jefferson",
-            '33': "king",
-            '35': "kitsap",
-            '37': "kittitas",
-            '39': "klickitat",
-            '41': "lewis",
-            '43': "lincoln",
-            '45': "mason",
-            '47': "okanogan",
-            '49': "pacific",
-            '51': "pend oreille",
-            '53': "pierce",
-            '55': "san juan",
-            '57': "skagit",
-            '59': "skamania",
-            '61': "snohomish",
-            '63': "spokane",
-            '65': "stevens",
-            '67': "thurston",
-            '69': "wahiakum",
-            '71': "walla walla",
-            '73': "whatcom",
-            '75': "whitman",
-            '77': "yakima"
+            '01': "Adams",
+            '03': "Asotin",
+            '05': "Benton",
+            '07': "Chelan",
+            '09': "Clallam",
+            '11': "Clark",
+            '13': "Columbia",
+            '15': "Cowitz",
+            '17': "Douglas",
+            '19': "Ferry",
+            '21': "Franklin",
+            '23': "Garfield",
+            '25': "Grant",
+            '27': "Grays Harbor",
+            '29': "Island",
+            '31': "Jefferson",
+            '33': "King",
+            '35': "Kitsap",
+            '37': "Kittitas",
+            '39': "Klickitat",
+            '41': "Lewis",
+            '43': "Lincoln",
+            '45': "Mason",
+            '47': "Okanogan",
+            '49': "Pacific",
+            '51': "Pend Oreille",
+            '53': "Pierce",
+            '55': "San Juan",
+            '57': "Skagit",
+            '59': "Skamania",
+            '61': "Snohomish",
+            '63': "Spokane",
+            '65': "Stevens",
+            '67': "Thurston",
+            '69': "Wahiakum",
+            '71': "Walla Walla",
+            '73': "Whatcom",
+            '75': "Whitman",
+            '77': "Yakima"
         };
         var data = {
             '01': {
@@ -213,8 +214,9 @@
         };
         for (var key in fips) {
             if (fips.hasOwnProperty(key)) {
-                $("#data_entry").html(function() {
-                  return $("#data_entry").html() + "<p>" + key + " " + fips[key] + " " + data[key].income + "</p>";
+                $("#form").html(function() {
+                    return $("#form").html() + "<div id=\"form-group\"><label>" + fips[key] + "</label>" +
+                        "<label>"+ data[key].income +"</income></div>";
                 });
             }
         }
