@@ -7,218 +7,216 @@
     <script src="http://datamaps.github.io/scripts/datamaps.usa.js?v=1"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
     <link rel="stylesheet" type="text/css" href="style.css">
+    <a href="https://github.com/akadouri/Washington-State-Datamap"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
     <h1>Datamap of Washington State</h1>
     <div id="container1"></div>
     <h1>Data</h1>
     <h2>2012 median income</h2>
     <div id="form"></div>
     <script>
-        var fips = {
-            '01': "Adams",
-            '03': "Asotin",
-            '05': "Benton",
-            '07': "Chelan",
-            '09': "Clallam",
-            '11': "Clark",
-            '13': "Columbia",
-            '15': "Cowitz",
-            '17': "Douglas",
-            '19': "Ferry",
-            '21': "Franklin",
-            '23': "Garfield",
-            '25': "Grant",
-            '27': "Grays Harbor",
-            '29': "Island",
-            '31': "Jefferson",
-            '33': "King",
-            '35': "Kitsap",
-            '37': "Kittitas",
-            '39': "Klickitat",
-            '41': "Lewis",
-            '43': "Lincoln",
-            '45': "Mason",
-            '47': "Okanogan",
-            '49': "Pacific",
-            '51': "Pend Oreille",
-            '53': "Pierce",
-            '55': "San Juan",
-            '57': "Skagit",
-            '59': "Skamania",
-            '61': "Snohomish",
-            '63': "Spokane",
-            '65': "Stevens",
-            '67': "Thurston",
-            '69': "Wahiakum",
-            '71': "Walla Walla",
-            '73': "Whatcom",
-            '75': "Whitman",
-            '77': "Yakima"
-        };
         var data = {
             '01': {
+                name: 'Adams',
                 income: '42,354',
                 fillKey: 'top6'
             },
             '03': {
+                name: 'Asotin',
                 income: '41,703',
                 fillKey: 'top6'
             },
             '05': {
+                name: 'Benton',
                 income: '62,739',
                 fillKey: 'top2'
             },
             '07': {
+                name: 'Chelan',
                 income: '47,265',
                 fillKey: 'top5'
             },
             '09': {
+                name: 'Clallam',
                 income: '41,887',
                 fillKey: 'top6'
             },
             '11': {
+                name: 'Clark',
                 income: '56,054',
                 fillKey: 'top3'
             },
             '13': {
+                name: 'Columbia',
                 income: '39,461',
                 fillKey: 'top7'
             },
             '15': {
+                name: 'Cowitz',
                 income: '42,752',
                 fillKey: 'top6'
             },
             '17': {
+                name: 'Douglas',
                 income: '48,050',
                 fillKey: 'top5'
             },
             '19': {
+                name: 'Ferry',
                 income: '37,548',
                 fillKey: 'top7'
             },
             '21': {
+                name: 'Franklin',
                 income: '56,221',
                 fillKey: 'top3'
             },
             '23': {
+                name: 'Garfield',
                 income: '45,187',
                 fillKey: 'top5'
             },
             '25': {
+                name: 'Grant',
                 income: '45,021',
                 fillKey: 'top5'
             },
             '27': {
+                name: 'Grays Harbor',
                 income: '40,354',
                 fillKey: 'top6'
             },
             '29': {
+                name: 'Island',
                 income: '55,091',
                 fillKey: 'top3'
             },
             '31': {
+                name: 'Jefferson',
                 income: '46,651',
                 fillKey: 'top5'
             },
             '33': {
+                name: 'King',
                 income: '68,313',
                 fillKey: 'top1'
             },
             '35': {
+                name: 'Kitsap',
                 income: '57,155',
                 fillKey: 'top3'
             },
             '37': {
+                name: "Kittitas",
                 income: '43,098',
                 fillKey: 'top6'
             },
             '39': {
+                name: 'Klickitat',
                 income: '44,825',
                 fillKey: 'top6'
             },
             '41': {
+                name: 'Lewis',
                 income: '41,208',
                 fillKey: 'top6'
             },
             '43': {
+                name: 'Lincoln',
                 income: '45,690',
                 fillKey: 'top5'
             },
             '45': {
+                name: 'Mason',
                 income: '48,804',
                 fillKey: 'top5'
             },
             '47': {
+                name: 'Okanogan',
                 income: '35,848',
                 fillKey: 'top7'
             },
             '49': {
+                name: 'Pacific',
                 income: '38,018',
                 fillKey: 'top7'
             },
             '51': {
+                name: 'Pend Oreille',
                 income: '37,755',
                 fillKey: 'top7'
             },
             '53': {
+                name: 'Pierce',
                 income: '57,162',
                 fillKey: 'top3'
             },
             '55': {
+                name: 'San Juan',
                 income: '55,025',
                 fillKey: 'top3'
             },
             '57': {
+                name: 'Skagit',
                 income: '56,443',
                 fillKey: 'top3'
             },
             '59': {
+                name: 'Skamania',
                 income: '52,401',
                 fillKey: 'top4'
             },
             '61': {
+                name: 'Snohomish',
                 income: '64,033',
                 fillKey: 'top2'
             },
             '63': {
+                name: 'Spokane',
                 income: '48,265',
                 fillKey: 'top5'
             },
             '65': {
+                name: 'Stevens',
                 income: '41,643',
                 fillKey: 'top6'
             },
             '67': {
+                name: 'Thurston',
                 income: '62,009',
                 fillKey: 'top2'
             },
             '69': {
+                name: 'Wahiakum',
                 income: '45,624',
                 fillKey: 'top5'
             },
             '71': {
+                name: 'Walla Walla',
                 income: '46,147',
                 fillKey: 'top5'
             },
             '73': {
+                name: 'Whatcom',
                 income: '51,268',
                 fillKey: 'top4'
             },
             '75': {
+                name: 'Whitman',
                 income: '32,570',
                 fillKey: 'top8'
             },
             '77': {
+                name: 'Yakima',
                 income: '42,162',
                 fillKey: 'top6'
             },
         };
-        for (var key in fips) {
-            if (fips.hasOwnProperty(key)) {
-                $("#form").html(function() {
-                    return $("#form").html() + "<div id=\"form-group\"><label>" + fips[key] + "</label>" +
-                        "<label>"+ data[key].income +"</income></div>";
-                });
-            }
+        for (var key in data) {
+            console.log(key);
+            $("#form").html(function() {
+                return $("#form").html() + "<div id=\"form-group\"><label>" + data[key].name + "</label>" +
+                    "<label>" + data[key].income + "</income></div>";
+            });
         }
         var map = new Datamap({
             scope: 'gz_2010_us_050_00_500k',
