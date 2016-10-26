@@ -15,15 +15,9 @@ label {
     width: 100px;
     margin-top: 10px;
 }
-input {
-    vertical-align: middle;
-    height: 30px;
-    width: 200px;
-    margin-top: 10px;
-}
-#container1 {
-    width: 1000px;
-    height: 450px;
-    margin-right: auto;
-    margin-left: auto;
+.map {
+  width: 1000px;
+  height: 820px;
+  margin: 0 auto;
+  position: relative;
 }

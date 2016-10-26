@@ -1,0 +1,2654 @@
+{
+    "11": {
+        "races": [{
+            "County": "Clark",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "93382",
+            "PercentageOfTotalVote": "48.9411",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Clark",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "92951",
+            "PercentageOfTotalVote": "48.7152",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Clark",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "2523",
+            "PercentageOfTotalVote": "1.3223",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Clark",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "591",
+            "PercentageOfTotalVote": "0.3097",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Clark",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "984",
+            "PercentageOfTotalVote": "0.5157",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Clark",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "58",
+            "PercentageOfTotalVote": "0.0304",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Clark",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "61",
+            "PercentageOfTotalVote": "0.032",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Clark",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "255",
+            "PercentageOfTotalVote": "0.1336",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Democratic"
+    },
+    "13": {
+        "races": [{
+            "County": "Columbia",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "645",
+            "PercentageOfTotalVote": "28.5525",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Columbia",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "1568",
+            "PercentageOfTotalVote": "69.4112",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Columbia",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "26",
+            "PercentageOfTotalVote": "1.151",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Columbia",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "6",
+            "PercentageOfTotalVote": "0.2656",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Columbia",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "7",
+            "PercentageOfTotalVote": "0.3099",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Columbia",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "0",
+            "PercentageOfTotalVote": "0",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Columbia",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "2",
+            "PercentageOfTotalVote": "0.0885",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Columbia",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "5",
+            "PercentageOfTotalVote": "0.2213",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "15": {
+        "races": [{
+            "County": "Cowlitz",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "22726",
+            "PercentageOfTotalVote": "50.9323",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Cowlitz",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "20746",
+            "PercentageOfTotalVote": "46.4948",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Cowlitz",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "553",
+            "PercentageOfTotalVote": "1.2394",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Cowlitz",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "221",
+            "PercentageOfTotalVote": "0.4953",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Cowlitz",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "261",
+            "PercentageOfTotalVote": "0.5849",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Cowlitz",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "15",
+            "PercentageOfTotalVote": "0.0336",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Cowlitz",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "26",
+            "PercentageOfTotalVote": "0.0583",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Cowlitz",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "72",
+            "PercentageOfTotalVote": "0.1614",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Democratic"
+    },
+    "17": {
+        "races": [{
+            "County": "Douglas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "5166",
+            "PercentageOfTotalVote": "34.5737",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Douglas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "9425",
+            "PercentageOfTotalVote": "63.0772",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Douglas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "204",
+            "PercentageOfTotalVote": "1.3653",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Douglas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "60",
+            "PercentageOfTotalVote": "0.4016",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Douglas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "53",
+            "PercentageOfTotalVote": "0.3547",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Douglas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "8",
+            "PercentageOfTotalVote": "0.0535",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Douglas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "6",
+            "PercentageOfTotalVote": "0.0402",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Douglas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "20",
+            "PercentageOfTotalVote": "0.1339",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "19": {
+        "races": [{
+            "County": "Ferry",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "1294",
+            "PercentageOfTotalVote": "37.6163",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Ferry",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "1995",
+            "PercentageOfTotalVote": "57.9942",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Ferry",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "73",
+            "PercentageOfTotalVote": "2.1221",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Ferry",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "31",
+            "PercentageOfTotalVote": "0.9012",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Ferry",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "30",
+            "PercentageOfTotalVote": "0.8721",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Ferry",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "2",
+            "PercentageOfTotalVote": "0.0581",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Ferry",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "2",
+            "PercentageOfTotalVote": "0.0581",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Ferry",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "13",
+            "PercentageOfTotalVote": "0.3779",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "21": {
+        "races": [{
+            "County": "Franklin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "8398",
+            "PercentageOfTotalVote": "37.0887",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Franklin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "13748",
+            "PercentageOfTotalVote": "60.7163",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Franklin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "293",
+            "PercentageOfTotalVote": "1.294",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Franklin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "83",
+            "PercentageOfTotalVote": "0.3666",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Franklin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "74",
+            "PercentageOfTotalVote": "0.3268",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Franklin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "10",
+            "PercentageOfTotalVote": "0.0442",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Franklin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "4",
+            "PercentageOfTotalVote": "0.0177",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Franklin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "33",
+            "PercentageOfTotalVote": "0.1457",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "23": {
+        "races": [{
+            "County": "Garfield",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "336",
+            "PercentageOfTotalVote": "26.2911",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Garfield",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "913",
+            "PercentageOfTotalVote": "71.4397",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Garfield",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "16",
+            "PercentageOfTotalVote": "1.252",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Garfield",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "2",
+            "PercentageOfTotalVote": "0.1565",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Garfield",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "4",
+            "PercentageOfTotalVote": "0.313",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Garfield",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "1",
+            "PercentageOfTotalVote": "0.0782",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Garfield",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "3",
+            "PercentageOfTotalVote": "0.2347",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Garfield",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "3",
+            "PercentageOfTotalVote": "0.2347",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "25": {
+        "races": [{
+            "County": "Grant",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "8950",
+            "PercentageOfTotalVote": "32.477",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Grant",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "17852",
+            "PercentageOfTotalVote": "64.7797",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Grant",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "427",
+            "PercentageOfTotalVote": "1.5495",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Grant",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "135",
+            "PercentageOfTotalVote": "0.4899",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Grant",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "125",
+            "PercentageOfTotalVote": "0.4536",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Grant",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "19",
+            "PercentageOfTotalVote": "0.0689",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Grant",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "17",
+            "PercentageOfTotalVote": "0.0617",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Grant",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "33",
+            "PercentageOfTotalVote": "0.1197",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "27": {
+        "races": [{
+            "County": "Grays Harbor",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "15960",
+            "PercentageOfTotalVote": "55.6408",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Grays Harbor",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "11914",
+            "PercentageOfTotalVote": "41.5354",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Grays Harbor",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "425",
+            "PercentageOfTotalVote": "1.4817",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Grays Harbor",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "150",
+            "PercentageOfTotalVote": "0.5229",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Grays Harbor",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "159",
+            "PercentageOfTotalVote": "0.5543",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Grays Harbor",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "12",
+            "PercentageOfTotalVote": "0.0418",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Grays Harbor",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "17",
+            "PercentageOfTotalVote": "0.0593",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Grays Harbor",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "47",
+            "PercentageOfTotalVote": "0.1639",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Democratic"
+    },
+    "29": {
+        "races": [{
+            "County": "Island",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "21478",
+            "PercentageOfTotalVote": "51.0178",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Island",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "19605",
+            "PercentageOfTotalVote": "46.5688",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Island",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "531",
+            "PercentageOfTotalVote": "1.2613",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Island",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "116",
+            "PercentageOfTotalVote": "0.2755",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Island",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "265",
+            "PercentageOfTotalVote": "0.6295",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Island",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "22",
+            "PercentageOfTotalVote": "0.0523",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Island",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "11",
+            "PercentageOfTotalVote": "0.0261",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Island",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "71",
+            "PercentageOfTotalVote": "0.1687",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Democratic"
+    },
+    "31": {
+        "races": [{
+            "County": "Jefferson",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "12739",
+            "PercentageOfTotalVote": "64.2443",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Jefferson",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "6405",
+            "PercentageOfTotalVote": "32.3012",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Jefferson",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "248",
+            "PercentageOfTotalVote": "1.2507",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Jefferson",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "54",
+            "PercentageOfTotalVote": "0.2723",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Jefferson",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "301",
+            "PercentageOfTotalVote": "1.518",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Jefferson",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "8",
+            "PercentageOfTotalVote": "0.0403",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Jefferson",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "7",
+            "PercentageOfTotalVote": "0.0353",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Jefferson",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "67",
+            "PercentageOfTotalVote": "0.3379",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Democratic"
+    },
+    "33": {
+        "races": [{
+            "County": "King",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "668004",
+            "PercentageOfTotalVote": "69.069",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "King",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "275700",
+            "PercentageOfTotalVote": "28.5063",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "King",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "12411",
+            "PercentageOfTotalVote": "1.2832",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "King",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "1369",
+            "PercentageOfTotalVote": "0.1415",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "King",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "7264",
+            "PercentageOfTotalVote": "0.7511",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "King",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "411",
+            "PercentageOfTotalVote": "0.0425",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "King",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "367",
+            "PercentageOfTotalVote": "0.0379",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "King",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "1628",
+            "PercentageOfTotalVote": "0.1683",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Democratic"
+    },
+    "35": {
+        "races": [{
+            "County": "Kitsap",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "67277",
+            "PercentageOfTotalVote": "54.534",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Kitsap",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "52846",
+            "PercentageOfTotalVote": "42.8364",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Kitsap",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "1774",
+            "PercentageOfTotalVote": "1.438",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Kitsap",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "414",
+            "PercentageOfTotalVote": "0.3356",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Kitsap",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "799",
+            "PercentageOfTotalVote": "0.6477",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Kitsap",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "37",
+            "PercentageOfTotalVote": "0.03",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Kitsap",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "43",
+            "PercentageOfTotalVote": "0.0349",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Kitsap",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "177",
+            "PercentageOfTotalVote": "0.1435",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Democratic"
+    },
+    "37": {
+        "races": [{
+            "County": "Kittitas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "7949",
+            "PercentageOfTotalVote": "43.7455",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Kittitas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "9782",
+            "PercentageOfTotalVote": "53.833",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Kittitas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "239",
+            "PercentageOfTotalVote": "1.3153",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Kittitas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "39",
+            "PercentageOfTotalVote": "0.2146",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Kittitas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "110",
+            "PercentageOfTotalVote": "0.6054",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Kittitas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "5",
+            "PercentageOfTotalVote": "0.0275",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Kittitas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "10",
+            "PercentageOfTotalVote": "0.055",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Kittitas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "37",
+            "PercentageOfTotalVote": "0.2036",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "39": {
+        "races": [{
+            "County": "Klickitat",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "4598",
+            "PercentageOfTotalVote": "44.7537",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Klickitat",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "5316",
+            "PercentageOfTotalVote": "51.7423",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Klickitat",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "147",
+            "PercentageOfTotalVote": "1.4308",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Klickitat",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "53",
+            "PercentageOfTotalVote": "0.5159",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Klickitat",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "121",
+            "PercentageOfTotalVote": "1.1777",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Klickitat",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "5",
+            "PercentageOfTotalVote": "0.0487",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Klickitat",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "7",
+            "PercentageOfTotalVote": "0.0681",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Klickitat",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "27",
+            "PercentageOfTotalVote": "0.2628",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "41": {
+        "races": [{
+            "County": "Lewis",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "12664",
+            "PercentageOfTotalVote": "37.1989",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Lewis",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "20452",
+            "PercentageOfTotalVote": "60.0752",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Lewis",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "508",
+            "PercentageOfTotalVote": "1.4922",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Lewis",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "149",
+            "PercentageOfTotalVote": "0.4377",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Lewis",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "172",
+            "PercentageOfTotalVote": "0.5052",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Lewis",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "18",
+            "PercentageOfTotalVote": "0.0529",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Lewis",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "25",
+            "PercentageOfTotalVote": "0.0734",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Lewis",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "56",
+            "PercentageOfTotalVote": "0.1645",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "43": {
+        "races": [{
+            "County": "Lincoln",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "1673",
+            "PercentageOfTotalVote": "28.4911",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Lincoln",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "4063",
+            "PercentageOfTotalVote": "69.1928",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Lincoln",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "66",
+            "PercentageOfTotalVote": "1.124",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Lincoln",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "24",
+            "PercentageOfTotalVote": "0.4087",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Lincoln",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "36",
+            "PercentageOfTotalVote": "0.6131",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Lincoln",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "1",
+            "PercentageOfTotalVote": "0.017",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Lincoln",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "3",
+            "PercentageOfTotalVote": "0.0511",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Lincoln",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "6",
+            "PercentageOfTotalVote": "0.1022",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "45": {
+        "races": [{
+            "County": "Mason",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "14764",
+            "PercentageOfTotalVote": "52.2897",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Mason",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "12761",
+            "PercentageOfTotalVote": "45.1957",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Mason",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "357",
+            "PercentageOfTotalVote": "1.2644",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Mason",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "104",
+            "PercentageOfTotalVote": "0.3683",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Mason",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "175",
+            "PercentageOfTotalVote": "0.6198",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Mason",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "17",
+            "PercentageOfTotalVote": "0.0602",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Mason",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "9",
+            "PercentageOfTotalVote": "0.0319",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Mason",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "48",
+            "PercentageOfTotalVote": "0.17",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Democratic"
+    },
+    "47": {
+        "races": [{
+            "County": "Okanogan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "7108",
+            "PercentageOfTotalVote": "42.194",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Okanogan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "9221",
+            "PercentageOfTotalVote": "54.737",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Okanogan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "237",
+            "PercentageOfTotalVote": "1.4069",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Okanogan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "86",
+            "PercentageOfTotalVote": "0.5105",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Okanogan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "142",
+            "PercentageOfTotalVote": "0.8429",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Okanogan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "10",
+            "PercentageOfTotalVote": "0.0594",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Okanogan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "8",
+            "PercentageOfTotalVote": "0.0475",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Okanogan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "34",
+            "PercentageOfTotalVote": "0.2018",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "49": {
+        "races": [{
+            "County": "Pacific",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "5711",
+            "PercentageOfTotalVote": "54.2664",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pacific",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "4499",
+            "PercentageOfTotalVote": "42.7499",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pacific",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "152",
+            "PercentageOfTotalVote": "1.4443",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pacific",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "49",
+            "PercentageOfTotalVote": "0.4656",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pacific",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "70",
+            "PercentageOfTotalVote": "0.6651",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pacific",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "6",
+            "PercentageOfTotalVote": "0.057",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pacific",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "11",
+            "PercentageOfTotalVote": "0.1045",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pacific",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "26",
+            "PercentageOfTotalVote": "0.2471",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Democratic"
+    },
+    "51": {
+        "races": [{
+            "County": "Pend Oreille",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "2508",
+            "PercentageOfTotalVote": "37.6125",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pend Oreille",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "3952",
+            "PercentageOfTotalVote": "59.2681",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pend Oreille",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "103",
+            "PercentageOfTotalVote": "1.5447",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pend Oreille",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "40",
+            "PercentageOfTotalVote": "0.5999",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pend Oreille",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "42",
+            "PercentageOfTotalVote": "0.6299",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pend Oreille",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "4",
+            "PercentageOfTotalVote": "0.06",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pend Oreille",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "5",
+            "PercentageOfTotalVote": "0.075",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pend Oreille",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "14",
+            "PercentageOfTotalVote": "0.21",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "53": {
+        "races": [{
+            "County": "Pierce",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "186430",
+            "PercentageOfTotalVote": "54.367",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pierce",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "148467",
+            "PercentageOfTotalVote": "43.2962",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pierce",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "4584",
+            "PercentageOfTotalVote": "1.3368",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pierce",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "1010",
+            "PercentageOfTotalVote": "0.2945",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pierce",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "1777",
+            "PercentageOfTotalVote": "0.5182",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pierce",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "135",
+            "PercentageOfTotalVote": "0.0394",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pierce",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "113",
+            "PercentageOfTotalVote": "0.033",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Pierce",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "394",
+            "PercentageOfTotalVote": "0.1149",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Democratic"
+    },
+    "55": {
+        "races": [{
+            "County": "San Juan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "7125",
+            "PercentageOfTotalVote": "67.2551",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "San Juan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "3111",
+            "PercentageOfTotalVote": "29.3657",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "San Juan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "140",
+            "PercentageOfTotalVote": "1.3215",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "San Juan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "8",
+            "PercentageOfTotalVote": "0.0755",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "San Juan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "175",
+            "PercentageOfTotalVote": "1.6519",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "San Juan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "7",
+            "PercentageOfTotalVote": "0.0661",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "San Juan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "2",
+            "PercentageOfTotalVote": "0.0189",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "San Juan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "26",
+            "PercentageOfTotalVote": "0.2454",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Democratic"
+    },
+    "57": {
+        "races": [{
+            "County": "Skagit",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "28688",
+            "PercentageOfTotalVote": "51.9061",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Skagit",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "25071",
+            "PercentageOfTotalVote": "45.3618",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Skagit",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "785",
+            "PercentageOfTotalVote": "1.4203",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Skagit",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "165",
+            "PercentageOfTotalVote": "0.2985",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Skagit",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "431",
+            "PercentageOfTotalVote": "0.7798",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Skagit",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "21",
+            "PercentageOfTotalVote": "0.038",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Skagit",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "16",
+            "PercentageOfTotalVote": "0.0289",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Skagit",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "92",
+            "PercentageOfTotalVote": "0.1665",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Democratic"
+    },
+    "59": {
+        "races": [{
+            "County": "Skamania",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "2628",
+            "PercentageOfTotalVote": "48.079",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Skamania",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "2687",
+            "PercentageOfTotalVote": "49.1584",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Skamania",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "84",
+            "PercentageOfTotalVote": "1.5368",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Skamania",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "13",
+            "PercentageOfTotalVote": "0.2378",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Skamania",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "40",
+            "PercentageOfTotalVote": "0.7318",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Skamania",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "4",
+            "PercentageOfTotalVote": "0.0732",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Skamania",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "1",
+            "PercentageOfTotalVote": "0.0183",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Skamania",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "9",
+            "PercentageOfTotalVote": "0.1647",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "61": {
+        "races": [{
+            "County": "Snohomish",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "188516",
+            "PercentageOfTotalVote": "57.1578",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Snohomish",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "133016",
+            "PercentageOfTotalVote": "40.3302",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Snohomish",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "4788",
+            "PercentageOfTotalVote": "1.4517",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Snohomish",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "1002",
+            "PercentageOfTotalVote": "0.3038",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Snohomish",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "1753",
+            "PercentageOfTotalVote": "0.5315",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Snohomish",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "129",
+            "PercentageOfTotalVote": "0.0391",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Snohomish",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "123",
+            "PercentageOfTotalVote": "0.0373",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Snohomish",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "490",
+            "PercentageOfTotalVote": "0.1486",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Democratic"
+    },
+    "63": {
+        "races": [{
+            "County": "Spokane",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "102295",
+            "PercentageOfTotalVote": "45.7021",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Spokane",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "115285",
+            "PercentageOfTotalVote": "51.5056",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Spokane",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "3257",
+            "PercentageOfTotalVote": "1.4551",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Spokane",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "1086",
+            "PercentageOfTotalVote": "0.4852",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Spokane",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "1361",
+            "PercentageOfTotalVote": "0.6081",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Spokane",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "118",
+            "PercentageOfTotalVote": "0.0527",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Spokane",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "84",
+            "PercentageOfTotalVote": "0.0375",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Spokane",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "344",
+            "PercentageOfTotalVote": "0.1537",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "65": {
+        "races": [{
+            "County": "Stevens",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "7762",
+            "PercentageOfTotalVote": "35.0255",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Stevens",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "13691",
+            "PercentageOfTotalVote": "61.7797",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Stevens",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "329",
+            "PercentageOfTotalVote": "1.4846",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Stevens",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "194",
+            "PercentageOfTotalVote": "0.8754",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Stevens",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "130",
+            "PercentageOfTotalVote": "0.5866",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Stevens",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "11",
+            "PercentageOfTotalVote": "0.0496",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Stevens",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "13",
+            "PercentageOfTotalVote": "0.0587",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Stevens",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "31",
+            "PercentageOfTotalVote": "0.1399",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "67": {
+        "races": [{
+            "County": "Thurston",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "74037",
+            "PercentageOfTotalVote": "58.2679",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Thurston",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "49287",
+            "PercentageOfTotalVote": "38.7894",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Thurston",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "1737",
+            "PercentageOfTotalVote": "1.367",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Thurston",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "304",
+            "PercentageOfTotalVote": "0.2393",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Thurston",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "1333",
+            "PercentageOfTotalVote": "1.0491",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Thurston",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "59",
+            "PercentageOfTotalVote": "0.0464",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Thurston",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "44",
+            "PercentageOfTotalVote": "0.0346",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Thurston",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "262",
+            "PercentageOfTotalVote": "0.2062",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Democratic"
+    },
+    "69": {
+        "races": [{
+            "County": "Wahkiakum",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "1094",
+            "PercentageOfTotalVote": "47.6896",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Wahkiakum",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "1119",
+            "PercentageOfTotalVote": "48.7794",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Wahkiakum",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "34",
+            "PercentageOfTotalVote": "1.4821",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Wahkiakum",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "11",
+            "PercentageOfTotalVote": "0.4795",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Wahkiakum",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "23",
+            "PercentageOfTotalVote": "1.0026",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Wahkiakum",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "1",
+            "PercentageOfTotalVote": "0.0436",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Wahkiakum",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "2",
+            "PercentageOfTotalVote": "0.0872",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Wahkiakum",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "10",
+            "PercentageOfTotalVote": "0.4359",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "71": {
+        "races": [{
+            "County": "Walla Walla",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "9768",
+            "PercentageOfTotalVote": "38.9039",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Walla Walla",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "14648",
+            "PercentageOfTotalVote": "58.34",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Walla Walla",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "398",
+            "PercentageOfTotalVote": "1.5852",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Walla Walla",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "71",
+            "PercentageOfTotalVote": "0.2828",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Walla Walla",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "154",
+            "PercentageOfTotalVote": "0.6134",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Walla Walla",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "12",
+            "PercentageOfTotalVote": "0.0478",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Walla Walla",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "12",
+            "PercentageOfTotalVote": "0.0478",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Walla Walla",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "45",
+            "PercentageOfTotalVote": "0.1792",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "73": {
+        "races": [{
+            "County": "Whatcom",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "57089",
+            "PercentageOfTotalVote": "55.4106",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Whatcom",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "42703",
+            "PercentageOfTotalVote": "41.4476",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Whatcom",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "1383",
+            "PercentageOfTotalVote": "1.3423",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Whatcom",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "287",
+            "PercentageOfTotalVote": "0.2786",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Whatcom",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "1248",
+            "PercentageOfTotalVote": "1.2113",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Whatcom",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "57",
+            "PercentageOfTotalVote": "0.0553",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Whatcom",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "43",
+            "PercentageOfTotalVote": "0.0417",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Whatcom",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "219",
+            "PercentageOfTotalVote": "0.2126",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Democratic"
+    },
+    "75": {
+        "races": [{
+            "County": "Whitman",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "8037",
+            "PercentageOfTotalVote": "46.9424",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Whitman",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "8507",
+            "PercentageOfTotalVote": "49.6875",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Whitman",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "334",
+            "PercentageOfTotalVote": "1.9508",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Whitman",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "64",
+            "PercentageOfTotalVote": "0.3738",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Whitman",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "118",
+            "PercentageOfTotalVote": "0.6892",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Whitman",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "9",
+            "PercentageOfTotalVote": "0.0526",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Whitman",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "15",
+            "PercentageOfTotalVote": "0.0876",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Whitman",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "37",
+            "PercentageOfTotalVote": "0.2161",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "77": {
+        "races": [{
+            "County": "Yakima",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "33217",
+            "PercentageOfTotalVote": "43.1541",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Yakima",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "42239",
+            "PercentageOfTotalVote": "54.8751",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Yakima",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "749",
+            "PercentageOfTotalVote": "0.9731",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Yakima",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "285",
+            "PercentageOfTotalVote": "0.3703",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Yakima",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "330",
+            "PercentageOfTotalVote": "0.4287",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Yakima",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "28",
+            "PercentageOfTotalVote": "0.0364",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Yakima",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "30",
+            "PercentageOfTotalVote": "0.039",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Yakima",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "95",
+            "PercentageOfTotalVote": "0.1234",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "01": {
+        "races": [{
+            "County": "Adams",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "1540",
+            "PercentageOfTotalVote": "32.1302",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Adams",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "3171",
+            "PercentageOfTotalVote": "66.159",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Adams",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "40",
+            "PercentageOfTotalVote": "0.8346",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Adams",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "15",
+            "PercentageOfTotalVote": "0.313",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Adams",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "20",
+            "PercentageOfTotalVote": "0.4173",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Adams",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "1",
+            "PercentageOfTotalVote": "0.0209",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Adams",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "0",
+            "PercentageOfTotalVote": "0",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Adams",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "6",
+            "PercentageOfTotalVote": "0.1252",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "Asotin": {
+        "races": [{
+            "County": "Asotin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "4003",
+            "PercentageOfTotalVote": "40.4303",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Asotin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "5654",
+            "PercentageOfTotalVote": "57.1053",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Asotin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "151",
+            "PercentageOfTotalVote": "1.5251",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Asotin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "31",
+            "PercentageOfTotalVote": "0.3131",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Asotin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "34",
+            "PercentageOfTotalVote": "0.3434",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Asotin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "3",
+            "PercentageOfTotalVote": "0.0303",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Asotin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "4",
+            "PercentageOfTotalVote": "0.0404",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Asotin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "21",
+            "PercentageOfTotalVote": "0.2121",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "Benton": {
+        "races": [{
+            "County": "Benton",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "28145",
+            "PercentageOfTotalVote": "35.3763",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Benton",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "49461",
+            "PercentageOfTotalVote": "62.169",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Benton",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "1148",
+            "PercentageOfTotalVote": "1.443",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Benton",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "303",
+            "PercentageOfTotalVote": "0.3808",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Benton",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "360",
+            "PercentageOfTotalVote": "0.4525",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Benton",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "19",
+            "PercentageOfTotalVote": "0.0239",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Benton",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "18",
+            "PercentageOfTotalVote": "0.0226",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Benton",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "105",
+            "PercentageOfTotalVote": "0.132",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "Chelan": {
+        "races": [{
+            "County": "Chelan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "13112",
+            "PercentageOfTotalVote": "40.6574",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Chelan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "18402",
+            "PercentageOfTotalVote": "57.0605",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Chelan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "426",
+            "PercentageOfTotalVote": "1.3209",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Chelan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "91",
+            "PercentageOfTotalVote": "0.2822",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Chelan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "154",
+            "PercentageOfTotalVote": "0.4775",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Chelan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "9",
+            "PercentageOfTotalVote": "0.0279",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Chelan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "20",
+            "PercentageOfTotalVote": "0.062",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Chelan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "36",
+            "PercentageOfTotalVote": "0.1116",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Republican"
+    },
+    "Clallam": {
+        "races": [{
+            "County": "Clallam",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "18580",
+            "PercentageOfTotalVote": "48.81",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Clallam",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "18437",
+            "PercentageOfTotalVote": "48.4343",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Clallam",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Gary Johnson / James P. Gray",
+            "Party": "Libertarian Party Nominees",
+            "Votes": "522",
+            "PercentageOfTotalVote": "1.3713",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Clallam",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Virgil Goode / James N. Clymer",
+            "Party": "Constitution Party Nominees",
+            "Votes": "135",
+            "PercentageOfTotalVote": "0.3546",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Clallam",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Jill Stein / Cheri Honkala",
+            "Party": "Green Party Nominees",
+            "Votes": "293",
+            "PercentageOfTotalVote": "0.7697",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Clallam",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Peta Lindsay / Yari Osorio",
+            "Party": "Socialism & Liberation Party Nominees",
+            "Votes": "26",
+            "PercentageOfTotalVote": "0.0683",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Clallam",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "James Harris / Alyson Kennedy",
+            "Party": "Socialist Workers Party Nominees",
+            "Votes": "21",
+            "PercentageOfTotalVote": "0.0552",
+            "JurisdictionName": "United States"
+        }, {
+            "County": "Clallam",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Ross C. (Rocky) Anderson / Luis J. Rodriguez",
+            "Party": "Justice Party Nominees",
+            "Votes": "52",
+            "PercentageOfTotalVote": "0.1366",
+            "JurisdictionName": "United States"
+        }],
+        "fillKey": "Democratic"
+    }
+}

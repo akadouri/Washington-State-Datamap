@@ -1,0 +1,197 @@
+{
+    "11": {
+        "name": "Clark",
+        "income": "56,054",
+        "fillKey": "top3"
+    },
+    "13": {
+        "name": "Columbia",
+        "income": "39,461",
+        "fillKey": "top7"
+    },
+    "15": {
+        "name": "Cowitz",
+        "income": "42,752",
+        "fillKey": "top6"
+    },
+    "17": {
+        "name": "Douglas",
+        "income": "48,050",
+        "fillKey": "top5"
+    },
+    "19": {
+        "name": "Ferry",
+        "income": "37,548",
+        "fillKey": "top7"
+    },
+    "21": {
+        "name": "Franklin",
+        "income": "56,221",
+        "fillKey": "top3"
+    },
+    "23": {
+        "name": "Garfield",
+        "income": "45,187",
+        "fillKey": "top5"
+    },
+    "25": {
+        "name": "Grant",
+        "income": "45,021",
+        "fillKey": "top5"
+    },
+    "27": {
+        "name": "Grays Harbor",
+        "income": "40,354",
+        "fillKey": "top6"
+    },
+    "29": {
+        "name": "Island",
+        "income": "55,091",
+        "fillKey": "top3"
+    },
+    "31": {
+        "name": "Jefferson",
+        "income": "46,651",
+        "fillKey": "top5"
+    },
+    "33": {
+        "name": "King",
+        "income": "68,313",
+        "fillKey": "top1"
+    },
+    "35": {
+        "name": "Kitsap",
+        "income": "57,155",
+        "fillKey": "top3"
+    },
+    "37": {
+        "name": "Kittitas",
+        "income": "43,098",
+        "fillKey": "top6"
+    },
+    "39": {
+        "name": "Klickitat",
+        "income": "44,825",
+        "fillKey": "top6"
+    },
+    "41": {
+        "name": "Lewis",
+        "income": "41,208",
+        "fillKey": "top6"
+    },
+    "43": {
+        "name": "Lincoln",
+        "income": "45,690",
+        "fillKey": "top5"
+    },
+    "45": {
+        "name": "Mason",
+        "income": "48,804",
+        "fillKey": "top5"
+    },
+    "47": {
+        "name": "Okanogan",
+        "income": "35,848",
+        "fillKey": "top7"
+    },
+    "49": {
+        "name": "Pacific",
+        "income": "38,018",
+        "fillKey": "top7"
+    },
+    "51": {
+        "name": "Pend Oreille",
+        "income": "37,755",
+        "fillKey": "top7"
+    },
+    "53": {
+        "name": "Pierce",
+        "income": "57,162",
+        "fillKey": "top3"
+    },
+    "55": {
+        "name": "San Juan",
+        "income": "55,025",
+        "fillKey": "top3"
+    },
+    "57": {
+        "name": "Skagit",
+        "income": "56,443",
+        "fillKey": "top3"
+    },
+    "59": {
+        "name": "Skamania",
+        "income": "52,401",
+        "fillKey": "top4"
+    },
+    "61": {
+        "name": "Snohomish",
+        "income": "64,033",
+        "fillKey": "top2"
+    },
+    "63": {
+        "name": "Spokane",
+        "income": "48,265",
+        "fillKey": "top5"
+    },
+    "65": {
+        "name": "Stevens",
+        "income": "41,643",
+        "fillKey": "top6"
+    },
+    "67": {
+        "name": "Thurston",
+        "income": "62,009",
+        "fillKey": "top2"
+    },
+    "69": {
+        "name": "Wahiakum",
+        "income": "45,624",
+        "fillKey": "top5"
+    },
+    "71": {
+        "name": "Walla Walla",
+        "income": "46,147",
+        "fillKey": "top5"
+    },
+    "73": {
+        "name": "Whatcom",
+        "income": "51,268",
+        "fillKey": "top4"
+    },
+    "75": {
+        "name": "Whitman",
+        "income": "32,570",
+        "fillKey": "top8"
+    },
+    "77": {
+        "name": "Yakima",
+        "income": "42,162",
+        "fillKey": "top6"
+    },
+    "01": {
+        "name": "Adams",
+        "income": "42,354",
+        "fillKey": "top6"
+    },
+    "03": {
+        "name": "Asotin",
+        "income": "41,703",
+        "fillKey": "top6"
+    },
+    "05": {
+        "name": "Benton",
+        "income": "62,739",
+        "fillKey": "top2"
+    },
+    "07": {
+        "name": "Chelan",
+        "income": "47,265",
+        "fillKey": "top5"
+    },
+    "09": {
+        "name": "Clallam",
+        "income": "41,887",
+        "fillKey": "top6"
+    }
+}
