@@ -65,7 +65,16 @@
             "PercentageOfTotalVote": "0.1336",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Democratic"
+        "fillKey": "Democratic",
+        "winner": {
+            "County": "Clark",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "93382",
+            "PercentageOfTotalVote": "48.9411",
+            "JurisdictionName": "United States"
+        }
     },
     "13": {
         "races": [{
@@ -133,7 +142,16 @@
             "PercentageOfTotalVote": "0.2213",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Columbia",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "1568",
+            "PercentageOfTotalVote": "69.4112",
+            "JurisdictionName": "United States"
+        }
     },
     "15": {
         "races": [{
@@ -201,7 +219,16 @@
             "PercentageOfTotalVote": "0.1614",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Democratic"
+        "fillKey": "Democratic",
+        "winner": {
+            "County": "Cowlitz",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "22726",
+            "PercentageOfTotalVote": "50.9323",
+            "JurisdictionName": "United States"
+        }
     },
     "17": {
         "races": [{
@@ -269,7 +296,16 @@
             "PercentageOfTotalVote": "0.1339",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Douglas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "9425",
+            "PercentageOfTotalVote": "63.0772",
+            "JurisdictionName": "United States"
+        }
     },
     "19": {
         "races": [{
@@ -337,7 +373,16 @@
             "PercentageOfTotalVote": "0.3779",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Ferry",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "1995",
+            "PercentageOfTotalVote": "57.9942",
+            "JurisdictionName": "United States"
+        }
     },
     "21": {
         "races": [{
@@ -405,7 +450,16 @@
             "PercentageOfTotalVote": "0.1457",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Franklin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "13748",
+            "PercentageOfTotalVote": "60.7163",
+            "JurisdictionName": "United States"
+        }
     },
     "23": {
         "races": [{
@@ -473,7 +527,16 @@
             "PercentageOfTotalVote": "0.2347",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Garfield",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "913",
+            "PercentageOfTotalVote": "71.4397",
+            "JurisdictionName": "United States"
+        }
     },
     "25": {
         "races": [{
@@ -541,7 +604,16 @@
             "PercentageOfTotalVote": "0.1197",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Grant",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "17852",
+            "PercentageOfTotalVote": "64.7797",
+            "JurisdictionName": "United States"
+        }
     },
     "27": {
         "races": [{
@@ -609,7 +681,16 @@
             "PercentageOfTotalVote": "0.1639",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Democratic"
+        "fillKey": "Democratic",
+        "winner": {
+            "County": "Grays Harbor",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "15960",
+            "PercentageOfTotalVote": "55.6408",
+            "JurisdictionName": "United States"
+        }
     },
     "29": {
         "races": [{
@@ -677,7 +758,16 @@
             "PercentageOfTotalVote": "0.1687",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Democratic"
+        "fillKey": "Democratic",
+        "winner": {
+            "County": "Island",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "21478",
+            "PercentageOfTotalVote": "51.0178",
+            "JurisdictionName": "United States"
+        }
     },
     "31": {
         "races": [{
@@ -745,7 +835,16 @@
             "PercentageOfTotalVote": "0.3379",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Democratic"
+        "fillKey": "Democratic",
+        "winner": {
+            "County": "Jefferson",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "12739",
+            "PercentageOfTotalVote": "64.2443",
+            "JurisdictionName": "United States"
+        }
     },
     "33": {
         "races": [{
@@ -813,7 +912,16 @@
             "PercentageOfTotalVote": "0.1683",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Democratic"
+        "fillKey": "Democratic",
+        "winner": {
+            "County": "King",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "668004",
+            "PercentageOfTotalVote": "69.069",
+            "JurisdictionName": "United States"
+        }
     },
     "35": {
         "races": [{
@@ -881,7 +989,16 @@
             "PercentageOfTotalVote": "0.1435",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Democratic"
+        "fillKey": "Democratic",
+        "winner": {
+            "County": "Kitsap",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "67277",
+            "PercentageOfTotalVote": "54.534",
+            "JurisdictionName": "United States"
+        }
     },
     "37": {
         "races": [{
@@ -949,7 +1066,16 @@
             "PercentageOfTotalVote": "0.2036",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Kittitas",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "9782",
+            "PercentageOfTotalVote": "53.833",
+            "JurisdictionName": "United States"
+        }
     },
     "39": {
         "races": [{
@@ -1017,7 +1143,16 @@
             "PercentageOfTotalVote": "0.2628",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Klickitat",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "5316",
+            "PercentageOfTotalVote": "51.7423",
+            "JurisdictionName": "United States"
+        }
     },
     "41": {
         "races": [{
@@ -1085,7 +1220,16 @@
             "PercentageOfTotalVote": "0.1645",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Lewis",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "20452",
+            "PercentageOfTotalVote": "60.0752",
+            "JurisdictionName": "United States"
+        }
     },
     "43": {
         "races": [{
@@ -1153,7 +1297,16 @@
             "PercentageOfTotalVote": "0.1022",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Lincoln",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "4063",
+            "PercentageOfTotalVote": "69.1928",
+            "JurisdictionName": "United States"
+        }
     },
     "45": {
         "races": [{
@@ -1221,7 +1374,16 @@
             "PercentageOfTotalVote": "0.17",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Democratic"
+        "fillKey": "Democratic",
+        "winner": {
+            "County": "Mason",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "14764",
+            "PercentageOfTotalVote": "52.2897",
+            "JurisdictionName": "United States"
+        }
     },
     "47": {
         "races": [{
@@ -1289,7 +1451,16 @@
             "PercentageOfTotalVote": "0.2018",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Okanogan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "9221",
+            "PercentageOfTotalVote": "54.737",
+            "JurisdictionName": "United States"
+        }
     },
     "49": {
         "races": [{
@@ -1357,7 +1528,16 @@
             "PercentageOfTotalVote": "0.2471",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Democratic"
+        "fillKey": "Democratic",
+        "winner": {
+            "County": "Pacific",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "5711",
+            "PercentageOfTotalVote": "54.2664",
+            "JurisdictionName": "United States"
+        }
     },
     "51": {
         "races": [{
@@ -1425,7 +1605,16 @@
             "PercentageOfTotalVote": "0.21",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Pend Oreille",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "3952",
+            "PercentageOfTotalVote": "59.2681",
+            "JurisdictionName": "United States"
+        }
     },
     "53": {
         "races": [{
@@ -1493,7 +1682,16 @@
             "PercentageOfTotalVote": "0.1149",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Democratic"
+        "fillKey": "Democratic",
+        "winner": {
+            "County": "Pierce",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "186430",
+            "PercentageOfTotalVote": "54.367",
+            "JurisdictionName": "United States"
+        }
     },
     "55": {
         "races": [{
@@ -1561,7 +1759,16 @@
             "PercentageOfTotalVote": "0.2454",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Democratic"
+        "fillKey": "Democratic",
+        "winner": {
+            "County": "San Juan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "7125",
+            "PercentageOfTotalVote": "67.2551",
+            "JurisdictionName": "United States"
+        }
     },
     "57": {
         "races": [{
@@ -1629,7 +1836,16 @@
             "PercentageOfTotalVote": "0.1665",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Democratic"
+        "fillKey": "Democratic",
+        "winner": {
+            "County": "Skagit",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "28688",
+            "PercentageOfTotalVote": "51.9061",
+            "JurisdictionName": "United States"
+        }
     },
     "59": {
         "races": [{
@@ -1697,7 +1913,16 @@
             "PercentageOfTotalVote": "0.1647",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Skamania",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "2687",
+            "PercentageOfTotalVote": "49.1584",
+            "JurisdictionName": "United States"
+        }
     },
     "61": {
         "races": [{
@@ -1765,7 +1990,16 @@
             "PercentageOfTotalVote": "0.1486",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Democratic"
+        "fillKey": "Democratic",
+        "winner": {
+            "County": "Snohomish",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "188516",
+            "PercentageOfTotalVote": "57.1578",
+            "JurisdictionName": "United States"
+        }
     },
     "63": {
         "races": [{
@@ -1833,7 +2067,16 @@
             "PercentageOfTotalVote": "0.1537",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Spokane",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "115285",
+            "PercentageOfTotalVote": "51.5056",
+            "JurisdictionName": "United States"
+        }
     },
     "65": {
         "races": [{
@@ -1901,7 +2144,16 @@
             "PercentageOfTotalVote": "0.1399",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Stevens",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "13691",
+            "PercentageOfTotalVote": "61.7797",
+            "JurisdictionName": "United States"
+        }
     },
     "67": {
         "races": [{
@@ -1969,7 +2221,16 @@
             "PercentageOfTotalVote": "0.2062",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Democratic"
+        "fillKey": "Democratic",
+        "winner": {
+            "County": "Thurston",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "74037",
+            "PercentageOfTotalVote": "58.2679",
+            "JurisdictionName": "United States"
+        }
     },
     "69": {
         "races": [{
@@ -2037,7 +2298,16 @@
             "PercentageOfTotalVote": "0.4359",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Wahkiakum",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "1119",
+            "PercentageOfTotalVote": "48.7794",
+            "JurisdictionName": "United States"
+        }
     },
     "71": {
         "races": [{
@@ -2105,7 +2375,16 @@
             "PercentageOfTotalVote": "0.1792",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Walla Walla",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "14648",
+            "PercentageOfTotalVote": "58.34",
+            "JurisdictionName": "United States"
+        }
     },
     "73": {
         "races": [{
@@ -2173,7 +2452,16 @@
             "PercentageOfTotalVote": "0.2126",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Democratic"
+        "fillKey": "Democratic",
+        "winner": {
+            "County": "Whatcom",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "57089",
+            "PercentageOfTotalVote": "55.4106",
+            "JurisdictionName": "United States"
+        }
     },
     "75": {
         "races": [{
@@ -2241,7 +2529,16 @@
             "PercentageOfTotalVote": "0.2161",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Whitman",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "8507",
+            "PercentageOfTotalVote": "49.6875",
+            "JurisdictionName": "United States"
+        }
     },
     "77": {
         "races": [{
@@ -2309,7 +2606,16 @@
             "PercentageOfTotalVote": "0.1234",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Yakima",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "42239",
+            "PercentageOfTotalVote": "54.8751",
+            "JurisdictionName": "United States"
+        }
     },
     "01": {
         "races": [{
@@ -2377,9 +2683,18 @@
             "PercentageOfTotalVote": "0.1252",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Adams",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "3171",
+            "PercentageOfTotalVote": "66.159",
+            "JurisdictionName": "United States"
+        }
     },
-    "Asotin": {
+    "03": {
         "races": [{
             "County": "Asotin",
             "RaceName": "United States President/Vice President",
@@ -2445,9 +2760,18 @@
             "PercentageOfTotalVote": "0.2121",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Asotin",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "5654",
+            "PercentageOfTotalVote": "57.1053",
+            "JurisdictionName": "United States"
+        }
     },
-    "Benton": {
+    "05": {
         "races": [{
             "County": "Benton",
             "RaceName": "United States President/Vice President",
@@ -2513,9 +2837,18 @@
             "PercentageOfTotalVote": "0.132",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Benton",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "49461",
+            "PercentageOfTotalVote": "62.169",
+            "JurisdictionName": "United States"
+        }
     },
-    "Chelan": {
+    "07": {
         "races": [{
             "County": "Chelan",
             "RaceName": "United States President/Vice President",
@@ -2581,9 +2914,18 @@
             "PercentageOfTotalVote": "0.1116",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Republican"
+        "fillKey": "Republican",
+        "winner": {
+            "County": "Chelan",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Mitt Romney / Paul Ryan",
+            "Party": "Republican Party Nominees",
+            "Votes": "18402",
+            "PercentageOfTotalVote": "57.0605",
+            "JurisdictionName": "United States"
+        }
     },
-    "Clallam": {
+    "09": {
         "races": [{
             "County": "Clallam",
             "RaceName": "United States President/Vice President",
@@ -2649,6 +2991,15 @@
             "PercentageOfTotalVote": "0.1366",
             "JurisdictionName": "United States"
         }],
-        "fillKey": "Democratic"
+        "fillKey": "Democratic",
+        "winner": {
+            "County": "Clallam",
+            "RaceName": "United States President/Vice President",
+            "Candidate": "Barack Obama / Joe Biden",
+            "Party": "Democratic Party Nominees",
+            "Votes": "18580",
+            "PercentageOfTotalVote": "48.81",
+            "JurisdictionName": "United States"
+        }
     }
 }

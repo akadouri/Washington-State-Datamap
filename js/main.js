@@ -60,6 +60,13 @@ function buildMap(data) {
 }
 
 function buildMap2(data) {
+  for (var key in data) {
+      $("#form2").html(function() {
+          return $("#form2").html() + "<div id=\"form-group\"><label>" + data[key].winner.County + "</label>" +
+              "<label>" + data[key].winner.Candidate + "</income></div>";
+      });
+  }
+
   var map = new Datamap({
       scope: 'gz_2010_us_050_00_500k',
       element: document.getElementById('container2'),
@@ -72,21 +79,10 @@ function buildMap2(data) {
               if (!data) {
                   return;
               }
-              var votes = 0;
-              var candidate;
-              for(var i = 0; i < data.length; i++) {
-                if(data[i].RaceName === "United States President/Vice President") {
-                  if(parseInt(data[i].Votes) > votes) {
-                    votes = parseInt(data[i].Votes);
-                    candidate = data[i].Candidate;
-                  }
-                }
-              }
-             console.log(data.fillKey);
               return ['<div class=hoverinfo>',
-                  '<strong>', data.races[0].County, '</strong>',
-                  '<br><strong>', candidate, '</strong>',
-                  '<br><strong>', votes, '</strong>',
+                  '<strong>', data.winner.County, '</strong>',
+                  '<br><strong>', "Winner: " + data.winner.Candidate, '</strong>',
+                  '<br><strong>', "Votes: " + data.winner.Votes, '</strong>',
                   '</div>'
               ].join('');
           }
